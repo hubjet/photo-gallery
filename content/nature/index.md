@@ -1,7 +1,7 @@
 ---
 title: Nature
 resources:
-  - src: tree.jpg
+  - src: IMG_4297.JPG
     params:
       cover: true
 ---
