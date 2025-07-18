@@ -1,6 +1,6 @@
 baseURL = "https://hubjet.github.io/photo-gallery/"
 languageCode = "en-us"
-title = ""
+title = "My Photo Gallery"
 theme = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
 [module]
